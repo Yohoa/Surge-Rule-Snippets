@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,ieee.org,DIRECT
 DOMAIN-SUFFIX,nature.com,DIRECT
 DOMAIN-SUFFIX,sciencemag.org,DIRECT
 DOMAIN-SUFFIX,osapublishing.org,DIRECT
+DOMAIN-SUFFIX,webofknowledge.com,DIRECT
 
 
 // 告别出版商绑架
